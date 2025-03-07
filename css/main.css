@@ -2999,7 +2999,7 @@ section#welcome .image-wrapper #banner {
   background-repeat: no-repeat;
   background-position: left center;
   height: 20px;
-  cursor: pointer;
+  cursor: pointer;  
   position: absolute;
   top: 0;
   right: -8px;
