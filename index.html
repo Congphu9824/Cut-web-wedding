@@ -551,10 +551,12 @@
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <link rel="stylesheet preload" type="text/css"
-        href="https://thiepcuoionline.huythanhjewelry.vn/css/main.css?v=1.0.45">
+        href="https://thiepcuoionline.huythanhjewelry.vn/css/main.css">
+        <!-- <link rel="stylesheet preload" type="text/css"
+        href="/css/main.css"> -->
 
     <link rel="stylesheet preload" type="text/css"
-        href="https://thiepcuoionline.huythanhjewelry.vn/css/residual.css?v=1.0.4">
+        href="https://thiepcuoionline.huythanhjewelry.vn/css/residual.css">
     <script rel="preload" type="text/javascript" src="./js/frontend.js"></script>
     <link rel="stylesheet" href="https://adminlte.io/themes/v3/plugins/daterangepicker/daterangepicker.css">
 
@@ -7447,7 +7449,7 @@
                     } else if (xhr.status === 422) {
                         errorMessage = xhr.responseJSON.message;
                     } else {
-                        errorMessage = 'Cập nhật thành công! ';
+                        errorMessage = 'Cập nhật thành công 1! ';
                     }
                     console.log(xhr);
                     showErrorPopup(errorMessage);
