@@ -2558,7 +2558,7 @@ p.center {
     right: -150px;
     z-index: -1;
     background-position: center center;
-    background-image: url(../images/flower-medium.svg);
+    background-image: url('https://thiepcuoionline.huythanhjewelry.vn/images/flower-medium.svg');
     background-repeat: no-repeat
 }
 
@@ -2682,7 +2682,7 @@ p.center {
     right: -150px;
     z-index: -1;
     background-position: center center;
-    background-image: url(../images/flower-medium.svg);
+    background-image: url('https://thiepcuoionline.huythanhjewelry.vn/images/flower-medium.svg');
     background-repeat: no-repeat;
 }
 
@@ -2695,7 +2695,7 @@ p.center {
     left: -165px;
     z-index: -1;
     background-position: center center;
-    background-image: url(../images/flower-medium.svg);
+    background-image: url('https://thiepcuoionline.huythanhjewelry.vn/images/flower-medium.svg');
     background-repeat: no-repeat;
     -webkit-transform: scaleY(-1) rotate(-90deg);
     -moz-transform: scaleY(-1) rotate(-90deg);
@@ -2981,7 +2981,7 @@ p.center {
     margin-top: -212px;
     z-index: -1;
     background-position: center center;
-    background-image: url(../images/flower-medium.svg);
+    background-image: url('https://thiepcuoionline.huythanhjewelry.vn/images/flower-medium.svg');
     background-repeat: no-repeat;
     background-size: contain;
     -webkit-transform: rotate(45deg);
@@ -4627,7 +4627,7 @@ section.side-flowers {
     right: -65px;
     z-index: -1;
     background-position: center center;
-    background-image: url(../images/flower-medium.svg);
+    background-image: url('https://thiepcuoionline.huythanhjewelry.vn/images/flower-medium.svg');
     background-repeat: no-repeat;
     background-size: contain;
     -webkit-transform: rotate(-6deg) scaleX(-1);
